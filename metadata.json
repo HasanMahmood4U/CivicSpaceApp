@@ -1,5 +1,5 @@
 {
-  "name": "Copy_CivicSpace",
+  "name": "CivicSpace",
   "description": "An intelligent civic issue reporting application that drafts formal complaint letters to authorities using Gemini AI.",
   "requestFramePermissions": [
     "camera"
